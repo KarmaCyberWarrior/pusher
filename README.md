@@ -20,3 +20,7 @@ This file is to create a local repo on your device and push it to your github re
 
 All you need to do is run; python 'filename.py'
 And fill in the neccessary params
+
+mail: marksyapoe@gmail.com
+
+twitter: https://twitter.com/Mark_syapoe
